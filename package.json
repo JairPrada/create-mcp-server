@@ -27,5 +27,9 @@
     "gradient-string": "^3.0.0",
     "inquirer": "^12.7.0",
     "ora": "^8.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JairPrada/create-mcp-server.git"
   }
 }

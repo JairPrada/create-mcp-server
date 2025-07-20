@@ -1,4 +1,3 @@
-
 # 🛠️ Create MCP Server
 
 A simple CLI to scaffold and launch an MCP (Model Context Protocol) server project in seconds.
@@ -180,3 +179,11 @@ Open an issue or pull request to suggest templates or features!
 ## 📄 License
 
 MIT License
+
+---
+
+## 🌐 Repository
+
+The source code for this project is available on GitHub:
+
+[GitHub Repository](https://github.com/JairPrada/create-mcp-server)
